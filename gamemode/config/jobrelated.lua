@@ -35,7 +35,7 @@ TEAM_CITIZEN = DarkRP.createJob("Citizen", {
 	category = "Citizens",
 })
 
-TEAM_POLICE = DarkRP.createJob("Civil Protection", {
+TEAM_POLICE = DarkRP.createJob("Police", {
 	color = Color(25, 25, 170, 255),
 	model = {"models/player/police.mdl", "models/player/police_fem.mdl"},
 	description = [[The protector of every citizen that lives in the city.
